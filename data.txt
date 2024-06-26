@@ -1,0 +1,11 @@
+  data: {
+    name: 'ABeeZee-Italic.ttf',
+    path: 'fonts/ttf/ABeeZee-Italic.ttf',
+    sha: 'da4bf4754d583f833e0dd276094697275c0a53d2',
+    size: 47012,
+    url: 'https://api.github.com/repos/googlefonts/abeezee/contents/fonts/ttf/ABeeZee-Italic.ttf?ref=main',
+    html_url: 'https://github.com/googlefonts/abeezee/blob/main/fonts/ttf/ABeeZee-Italic.ttf',
+    git_url: 'https://api.github.com/repos/googlefonts/abeezee/git/blobs/da4bf4754d583f833e0dd276094697275c0a53d2',
+    download_url: 'https://raw.githubusercontent.com/googlefonts/abeezee/main/fonts/ttf/ABeeZee-Italic.ttf',
+    type: 'file',
+}
