@@ -21,6 +21,7 @@
     "@octokit/core": "^6.1.2",
     "atob": "^2.1.2",
     "nodemon": "^3.1.4",
+    "pb-text-format-to-json": "^1.1.2",
     "protobufjs": "^7.3.2"
   }
 }
