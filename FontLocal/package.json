@@ -1,0 +1,19 @@
+{
+  "name": "fontlocal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "mysql2": "^3.10.1",
+    "nodemon": "^3.1.4",
+    "pb-text-format-to-json": "^1.1.2"
+  }
+}
